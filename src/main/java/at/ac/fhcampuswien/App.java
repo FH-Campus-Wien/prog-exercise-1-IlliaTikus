@@ -140,7 +140,7 @@ public class App {
     public void transposedNumbers() {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.print("Number:  ");
+        System.out.print("Number: ");
         int num = scanner.nextInt();
 
         int a = num % 10;
